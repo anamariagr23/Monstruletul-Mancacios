@@ -1,0 +1,12 @@
+C:\Users\Anamaria\Desktop\c#_2020\Monstruletul_mancacios\Monstruletul_mancacios\bin\Debug\Monstruletul_mancacios.exe.config
+C:\Users\Anamaria\Desktop\c#_2020\Monstruletul_mancacios\Monstruletul_mancacios\bin\Debug\Monstruletul_mancacios.exe
+C:\Users\Anamaria\Desktop\c#_2020\Monstruletul_mancacios\Monstruletul_mancacios\bin\Debug\Monstruletul_mancacios.pdb
+C:\Users\Anamaria\Desktop\c#_2020\Monstruletul_mancacios\Monstruletul_mancacios\obj\Debug\Monstruletul_mancacios.csprojAssemblyReference.cache
+C:\Users\Anamaria\Desktop\c#_2020\Monstruletul_mancacios\Monstruletul_mancacios\obj\Debug\Monstruletul_mancacios.Form1.resources
+C:\Users\Anamaria\Desktop\c#_2020\Monstruletul_mancacios\Monstruletul_mancacios\obj\Debug\Monstruletul_mancacios.Properties.Resources.resources
+C:\Users\Anamaria\Desktop\c#_2020\Monstruletul_mancacios\Monstruletul_mancacios\obj\Debug\Monstruletul_mancacios.csproj.GenerateResource.cache
+C:\Users\Anamaria\Desktop\c#_2020\Monstruletul_mancacios\Monstruletul_mancacios\obj\Debug\Monstruletul_mancacios.csproj.CoreCompileInputs.cache
+C:\Users\Anamaria\Desktop\c#_2020\Monstruletul_mancacios\Monstruletul_mancacios\obj\Debug\Monstruletul_mancacios.exe
+C:\Users\Anamaria\Desktop\c#_2020\Monstruletul_mancacios\Monstruletul_mancacios\obj\Debug\Monstruletul_mancacios.pdb
+C:\Users\Anamaria\Desktop\c#_2020\Monstruletul_mancacios\Monstruletul_mancacios\obj\Debug\Monstruletul_mancacios.Form2.resources
+C:\Users\Anamaria\Desktop\c#_2020\Monstruletul_mancacios\Monstruletul_mancacios\obj\Debug\Monstruletul_mancacios.Final.resources
